@@ -4,7 +4,7 @@ public class Variables03 {
         
         boolean bool = true;
         
-        boolean intVar1 = true;
+        int intVar1 = 1;
         int intVar2 = 2;
         int intVar3 = 3;
     
